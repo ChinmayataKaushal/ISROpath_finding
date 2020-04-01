@@ -19,7 +19,7 @@ Further, the grid can only have 2 possible values in them  (/,\).
 
 m_row,n_col<100
 
-#######################################################################################
+#############################################################################################################################
 The input was given in the form of an image containing a grid.
 That image is processed using OpenCV library of pythong.
 Learning the use of some more new libraries like numpy and matplotlib was of great help.
